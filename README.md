@@ -29,5 +29,5 @@ The project analyzes user needs and designs a structured information website to 
 Deliver a simple, culturally adapted, and user-friendly digital resource for new mothers.
 
 ## Tools
-Wix · System Analysis Methods · UX Design · Modeling Diagrams
+Wix · System Analysis Methods · Modeling Diagrams
 `
